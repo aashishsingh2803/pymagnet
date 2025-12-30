@@ -15,7 +15,7 @@ A simple and easy-to-use torrent downloader that works with magnet links. Built 
 
 ## Screenshot
 
-![Torrent Downloader Interface](screenshot/Screenshot%202025-12-31%20at%201.53.07%20AM.png)
+![Torrent Downloader Interface](screenshot/Screenshot1.png)
 
 ## Requirements
 
