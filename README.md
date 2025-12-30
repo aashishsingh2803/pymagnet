@@ -1,4 +1,4 @@
-# Torr - Simple Torrent Downloader (Python)
+# pymagnet - Simple Torrent Downloader (Python)
 
 A simple and easy-to-use torrent downloader that works with magnet links. Built with Python and libtorrent.
 
@@ -165,7 +165,7 @@ magnet:?xt=urn:btih:dd8255ecdc7ca55fb0bbf81323d87062db1f6d1c&dn=Big+Buck+Bunny
 ## Project Structure
 
 ```
-torr/
+pymagnet/
 ├── requirements.txt      # Python dependencies
 ├── cli_downloader.py     # CLI interface with progress bars and colors
 ├── downloader.py         # Core TorrentDownloader class
